@@ -13,9 +13,11 @@ This code was informally tested with [ARCO data provided by Google.](https://clo
 1. Clone the repository
 2. Install with pip `pip install .` in a fresh venv
 
-#### Example
+### Example
 
-Please see `example.py` for how I've used the object so far. 
+Please see `example.py` for a more complete example of how I've used the object so far. 
+
+Below is a simple setup example:
 
 ```python
 import xarray as xr
