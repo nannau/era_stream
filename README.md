@@ -71,4 +71,3 @@ for epoch in range(num_epochs):
     for i, sample in enumerate(training_generator):
         ...
 ```
-```
