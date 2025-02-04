@@ -1,0 +1,15 @@
+[project]
+name = "era-stream"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "torchvision",
+    "xarray",
+    "xbatcher",
+    "zarr",
+    "gcsfs",
+    "cachey",
+]
