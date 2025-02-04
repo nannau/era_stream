@@ -6,7 +6,7 @@ This simple project is an implementation of this really nice [blog post](https:/
 
 The project is still under development, and I'm still learning from the Earthmover code at the time of writing!
 
-This code was informally tested with [ARCO data provided by Google.](https://cloud.google.com/storage/docs/public-datasets/era5) and had very nice results with very little latency. It should also work with other cloud storage objects. For example, in the coming weeks/months I will be working on implementing this with high-resolution WRF model output.
+This code was tested with [ARCO data provided by Google](https://cloud.google.com/storage/docs/public-datasets/era5) and had very nice results right out of the box with very little latency. It should also work with other cloud storage objects. For example, in the coming weeks/months I will be working on implementing this with high-resolution WRF model output.
 
 ### Installation
 
